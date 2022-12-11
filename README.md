@@ -8,5 +8,4 @@ Then we can sample training data like this.
 ![Training data](Training_Data.png)
 
 After we verfy our results using different test data for validation.
-
 ![Test data](Test_Data.png)
